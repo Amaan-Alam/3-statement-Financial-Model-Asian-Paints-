@@ -25,7 +25,7 @@ Asian Paints Limited is India’s largest decorative paints company with an esti
 
 This financial model projects the company’s operational and financial performance over a 10-year horizon using a fully linked and assumption-driven forecasting framework.
 
-## Financial Snapshot
+## *Financial Snapshot*
 
 | Metric | FY2025A | FY2030E | 5Y CAGR |
 |---|---|---|---|
@@ -40,7 +40,7 @@ This financial model projects the company’s operational and financial performa
 | Total Assets | ₹30,371 Cr | ₹39,435 Cr | 5.4% |
 | Free Cash Flow | ₹2,619 Cr | ₹3,664 Cr | 7.0% |
 
-## Core Investment Highlights
+## *Core Investment Highlights*
 
 - Revenue projected to reach **₹48,443 Cr by FY2030E**
 - EBITDA projected at **₹9,278 Cr**
