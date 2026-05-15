@@ -368,4 +368,4 @@ Analyze:
 
 # Disclaimer
 
-*Disclaimer: This model is prepared for educational and analytical purposes only. It does not constitute investment advice, a recommendation, or a solicitation to buy or sell any security. All projections are based on subjective assumptions and may differ materially from actual outcomes*
+*This model is prepared for educational and analytical purposes only. It does not constitute investment advice, a recommendation, or a solicitation to buy or sell any security. All projections are based on subjective assumptions and may differ materially from actual outcomes*
